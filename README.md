@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 <h1 align="center"> I'm gilbertmunuotz</h1>
 <h3 align="center">A passionate static fullstack developer</h3>
 <img src="https://camo.githubusercontent.com/b0476e711d948b5db51678ba19f80da25ccc88d5893852563e216ad833cbeb55/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41" alt="Man sitting on Workspace With Computer" align="right" width="400">
