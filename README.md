@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **officialgilbert24@gmail.com**
 
-- ⚡ Fun fact **I Think AI Is meant to Make The world A Better Place by Improving lives, Enhancing Human Capabilities & Augmenting our cognitive abilities to an Extra Ordinary level**
+- ⚡ Fun fact **I Think AI Is meant to Make The world A Better Place by Improving lives, Enhancing Human Capabilities & Augmenting our cognitive abilities to an Advanced level**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
