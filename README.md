@@ -11,11 +11,12 @@
 
 - ⚡ Fun fact😅 **I Think AI Is meant to Make The world A Better Place by Improving lives, Enhancing Human Capabilities & Augmenting our cognitive abilities to an Advanced level.🚀**
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gilbertmunuotz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gilbertmunuotz" height="30" width="40" /></a>
 <a href="https://instagram.com/gilbertmunuotz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gilbertmunuotz" height="30" width="40" /></a>
-</p>
+</p> -->
 
 <!-- commented the codes
 
