@@ -7,9 +7,10 @@
 
 <!-- - 🌱 I’m currently learning **React JS**
 
-- 📫 How to reach me **officialgilbert24@gmail.com** -->
+- 📫 How to reach me **officialgilbert24@gmail.com**  
 
-- ⚡ Fun fact😅 **I Think AI Is meant to Make The world A Better Place by Improving lives, Enhancing Human Capabilities & Augmenting our cognitive abilities to an Advanced level.🚀**
+- ⚡ Fun fact😅 -->
+I Think AI Is meant to Make The world A Better Place by Improving lives, Enhancing Human Capabilities & Augmenting our cognitive abilities to an Advanced level.🚀**
 
 <!--
 <h3 align="left">Connect with me:</h3>
