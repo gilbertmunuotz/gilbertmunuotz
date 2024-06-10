@@ -10,7 +10,7 @@
 - 📫 How to reach me **officialgilbert24@gmail.com**  
 
 - ⚡ Fun fact😅 -->
-**I Think AI Is meant to Make The world A Better Place by Improving lives, Enhancing Human Capabilities & Augmenting our cognitive abilities to an Advanced level.🚀**
+**If You think AI will Replace Developers then You are NOT a developer**
 
 <!--
 <h3 align="left">Connect with me:</h3>
