@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **officialgilbert24@gmail.com**  -->
 
-- ⚡ Fun fact😅 -->
+<!-- - ⚡ Fun fact😅 -->
 **If You think AI will Replace Developers then You are NOT a developer**
 
 <!--
