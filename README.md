@@ -10,7 +10,7 @@
 - 📫 How to reach me **officialgilbert24@gmail.com**  -->
 
 <!-- - ⚡ Fun fact😅 -->
-**If You think AI will Replace Developers then You are NOT a developer**
+**If You think AI will Replace Programmers then You are NOT a programmer**
 
 <!--
 <h3 align="left">Connect with me:</h3>
