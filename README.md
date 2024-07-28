@@ -1,9 +1,8 @@
 <!--<h3 align="center">A passionate fullstack developer(MERN❤)</h3>
   <h1 align="center">Hi 👋, I'm gilbertmunuotz</h1> -->
 
-- 📫 How to reach me **officialgilbert24@gmail.com**  
+<!-- 📫 How to reach me **officialgilbert24@gmail.com**   -->
 
-  ⚡ Fun fact😅 -->
 **If You think AI will Replace Programmers then You are NOT a programmer**
 
 <!--  <h3 align="left">Languages and Tools:</h3>
