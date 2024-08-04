@@ -3,6 +3,7 @@
 
 <!-- 📫 How to reach me **officialgilbert24@gmail.com**   -->
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=gilbertmunuotz&color=yellowgreen)   
 **If You think AI will Replace Programmers then You are NOT a programmer**
 
 <!--  <h3 align="left">Languages and Tools:</h3>
