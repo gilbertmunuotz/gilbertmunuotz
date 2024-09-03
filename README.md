@@ -4,7 +4,7 @@
 <!-- 📫 How to reach me **officialgilbert24@gmail.com**   -->
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=gilbertmunuotz&color=yellowgreen)   
-**If You think AI will Replace Programmers then You are NOT a programmer**
+If You think AI will Replace Programmers then You are NOT a programmer
 
 <!--  <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
@@ -21,4 +21,4 @@
 
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gilbertmunuotz&show_icons=true&locale=en" alt="gilbertmunuotz" /></p> 
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gilbertmunuotz&" alt="gilbertmunuotz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gilbertmunuotz&" alt="gilbertmunuotz" /></p>
